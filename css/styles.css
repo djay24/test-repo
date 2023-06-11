@@ -1,0 +1,15 @@
+.navbar {
+    height: 40px;   
+    border-bottom: 1px solid black;
+    padding: 0 0 15px 0; 
+
+}
+.nav-list {
+    list-style: none;
+    display: inline-block;
+    /* float: right; */
+}
+.nav-item {
+    float: left;
+    margin-right: 10px;
+}
